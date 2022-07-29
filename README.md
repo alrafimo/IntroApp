@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+A challenge i encountered while working on this app was using git and github on the terminal for the first time. However, it was worth the learning experience because i gained confidence using the terminal.
 
 ## License
 
